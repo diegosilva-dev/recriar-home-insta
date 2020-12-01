@@ -1,1 +1,2 @@
-# recriar-home-insta
+# Recriando página do Instagram
+Instagram web using HTML and CSS
